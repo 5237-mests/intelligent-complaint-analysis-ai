@@ -10,3 +10,4 @@ gradio
 streamlit
 openai
 tqdm
+chromadb
